@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+ecg_env/
+
+# Ignore data folder (contains processed_images, train_images, test_images)
+data/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
